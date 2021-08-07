@@ -9,6 +9,7 @@ study object detection
 Liu, L., Ouyang, W., Wang, X., Fieguth, P., Chen, J., Liu, X., & Pietikäinen, M. (2020). Deep Learning for Generic Object Detection: A Survey. International Journal of Computer Vision, 128(2), 261–318. https://doi.org/10.1007/s11263-019-01247-4
 
 
+
 **YOLO papers**
 
 **V1** |
